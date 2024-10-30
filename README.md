@@ -1,16 +1,21 @@
-## Hi there 👋
+# CommentsRemover
 
-<!--
-**wuwla06/wuwla06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Описание
 
-Here are some ideas to get you started:
+Comments Remover — это расширение для Visual Studio Code, которое позволяет удалить вск комментарии из кода.
+## Установка
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Откройте Visual Studio.
+2. Введите `CommentsRemover` в строке поиска.
+3. Откройте `Manage Extensions'.
+4. Найдите расширение и нажмите `Установить`.
+
+## Использование
+
+После установки вы можете удалять комментарии, выполнив следующую команду:
+
+- Наведитесь на `Tools`.
+- Выберите команду `Invoke RemoveCommentsCommand`.
+
+# Рыбин Тимур Антонович
+## M3120 

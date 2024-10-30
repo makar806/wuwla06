@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timur-pc\\source\\repos\\RemoveCommentsPlugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4374F4F-6339-41FA-831B-F7D8D7022209}|RemoveCommentsPlugin\\RemoveCommentsPlugin.csproj|c:\\users\\timur-pc\\source\\repos\\removecommentsplugin\\removecommentsplugin\\removecommentscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4374F4F-6339-41FA-831B-F7D8D7022209}|RemoveCommentsPlugin\\RemoveCommentsPlugin.csproj|solutionrelative:removecommentsplugin\\removecommentscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4374F4F-6339-41FA-831B-F7D8D7022209}|RemoveCommentsPlugin\\RemoveCommentsPlugin.csproj|c:\\users\\timur-pc\\source\\repos\\removecommentsplugin\\removecommentsplugin\\removecommentspluginpackage.vsct||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E4374F4F-6339-41FA-831B-F7D8D7022209}|RemoveCommentsPlugin\\RemoveCommentsPlugin.csproj|solutionrelative:removecommentsplugin\\removecommentspluginpackage.vsct||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4374F4F-6339-41FA-831B-F7D8D7022209}|RemoveCommentsPlugin\\RemoveCommentsPlugin.csproj|c:\\users\\timur-pc\\source\\repos\\removecommentsplugin\\removecommentsplugin\\removecommentspluginpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4374F4F-6339-41FA-831B-F7D8D7022209}|RemoveCommentsPlugin\\RemoveCommentsPlugin.csproj|solutionrelative:removecommentsplugin\\removecommentspluginpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RemoveCommentsPluginPackage.cs",
+              "DocumentMoniker": "C:\\Users\\timur-pc\\source\\repos\\RemoveCommentsPlugin\\RemoveCommentsPlugin\\RemoveCommentsPluginPackage.cs",
+              "RelativeDocumentMoniker": "RemoveCommentsPlugin\\RemoveCommentsPluginPackage.cs",
+              "ToolTip": "C:\\Users\\timur-pc\\source\\repos\\RemoveCommentsPlugin\\RemoveCommentsPlugin\\RemoveCommentsPluginPackage.cs",
+              "RelativeToolTip": "RemoveCommentsPlugin\\RemoveCommentsPluginPackage.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:12:03.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RemoveCommentsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\timur-pc\\source\\repos\\RemoveCommentsPlugin\\RemoveCommentsPlugin\\RemoveCommentsCommand.cs",
+              "RelativeDocumentMoniker": "RemoveCommentsPlugin\\RemoveCommentsCommand.cs",
+              "ToolTip": "C:\\Users\\timur-pc\\source\\repos\\RemoveCommentsPlugin\\RemoveCommentsPlugin\\RemoveCommentsCommand.cs",
+              "RelativeToolTip": "RemoveCommentsPlugin\\RemoveCommentsCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:09:54.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoveCommentsPluginPackage.vsct",
+              "DocumentMoniker": "C:\\Users\\timur-pc\\source\\repos\\RemoveCommentsPlugin\\RemoveCommentsPlugin\\RemoveCommentsPluginPackage.vsct",
+              "RelativeDocumentMoniker": "RemoveCommentsPlugin\\RemoveCommentsPluginPackage.vsct",
+              "ToolTip": "C:\\Users\\timur-pc\\source\\repos\\RemoveCommentsPlugin\\RemoveCommentsPlugin\\RemoveCommentsPluginPackage.vsct",
+              "RelativeToolTip": "RemoveCommentsPlugin\\RemoveCommentsPluginPackage.vsct",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-10-30T14:05:21.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

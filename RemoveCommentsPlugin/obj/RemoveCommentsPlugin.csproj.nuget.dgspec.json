@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\timur-pc\\source\\repos\\RemoveCommentsPlugin\\RemoveCommentsPlugin\\RemoveCommentsPlugin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\timur-pc\\source\\repos\\RemoveCommentsPlugin\\RemoveCommentsPlugin\\RemoveCommentsPlugin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\timur-pc\\source\\repos\\RemoveCommentsPlugin\\RemoveCommentsPlugin\\RemoveCommentsPlugin.csproj",
+        "projectName": "RemoveCommentsPlugin",
+        "projectPath": "C:\\Users\\timur-pc\\source\\repos\\RemoveCommentsPlugin\\RemoveCommentsPlugin\\RemoveCommentsPlugin.csproj",
+        "packagesPath": "C:\\Users\\timur-pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\timur-pc\\source\\repos\\RemoveCommentsPlugin\\RemoveCommentsPlugin\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\timur-pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "target": "Package",
+              "version": "[17.11.435, )"
+            },
+            "Microsoft.VisualStudio.SDK": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[17.0.32112.339, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
